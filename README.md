@@ -1,8 +1,33 @@
-# React + Vite
+# REACT ESSENTIALS
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Project Description:
 
-Currently, two official plugins are available:
+This repository contains a simple exercise app developed by following the Udemy course <a href="https://www.udemy.com/course/react-the-complete-guide-incl-redux/">React - The Complete Guide 2024 (incl. Next.js, Redux)</a>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Everything you'll see inside here isn't mine, I've developed it by following video after video what <a href="https://www.udemy.com/user/maximilian-schwarzmuller/">Maximilian Schwarzmüller</a> teached inside his course.
+It's amazing, follow him!
+
+## Screenshots
+
+<!--<img src="https://github.com/simone-di-paolo/shopping-list/assets/24905857/63e21fe3-0999-4997-aa94-56f1167e226c" width="200px">-->
+
+## Technologies Used
+
+- React
+- Project IDX
+
+## License
+
+This project is licensed under the MIT License.
+
+## Contributions
+
+I'll welcome contributions of any kind to this project!
+
+## Note
+
+This is an exercise project and might not be complete or bug-free.
+Please report any issues or suggestions for improvement.
+## Tags
+
+idx, google, react
