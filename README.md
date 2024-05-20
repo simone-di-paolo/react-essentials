@@ -2,19 +2,19 @@
 
 Project Description:
 
-This repository contains a simple exercise app developed by following the Udemy course <a href="https://www.udemy.com/course/react-the-complete-guide-incl-redux/">React - The Complete Guide 2024 (incl. Next.js, Redux)</a>
+This repository contains a simple exercise app developed by following the Udemy course <a target="_blank" href="https://www.udemy.com/course/react-the-complete-guide-incl-redux/">React - The Complete Guide 2024 (incl. Next.js, Redux)</a>
 
-Everything you'll see inside here isn't mine, I've developed it by following video after video what <a href="https://www.udemy.com/user/maximilian-schwarzmuller/">Maximilian Schwarzmüller</a> teached inside his course.
+Everything you'll see inside here isn't mine, I've developed it by following video after video what <a target="_blank" href="https://www.udemy.com/user/maximilian-schwarzmuller/">Maximilian Schwarzmüller</a> teached inside his course.<br>
 It's amazing, follow him!
 
 ## Screenshots
 
-<!--<img src="https://github.com/simone-di-paolo/shopping-list/assets/24905857/63e21fe3-0999-4997-aa94-56f1167e226c" width="200px">-->
+<img src="https://github.com/simone-di-paolo/react-essentials/assets/24905857/a37c0882-d7fb-4861-9af9-a9e65b6a7cee" width="800px">
 
 ## Technologies Used
 
 - React
-- Project IDX
+- <a target="_blank" href="https://idx.google.com/">Project IDX</a>
 
 ## License
 
