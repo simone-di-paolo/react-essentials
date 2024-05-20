@@ -9,7 +9,7 @@ It's amazing, follow him!
 
 ## Screenshots
 
-<img src="https://github.com/simone-di-paolo/react-essentials/assets/24905857/a37c0882-d7fb-4861-9af9-a9e65b6a7cee" width="800px">
+<img src="https://github.com/simone-di-paolo/react-essentials/assets/24905857/bf8a61f3-d349-4f4d-8b4d-0ad65c279f20" width="800px">
 
 ## Technologies Used
 
